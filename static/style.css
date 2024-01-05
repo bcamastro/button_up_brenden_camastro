@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+button {
+    font-size: 16px;
+    color: white;
+    margin: 20px;
+    display: block;
+}
+#search {
+    width: 100px;
+    color: teal;
+    background-color: white;
+    border: 1px solid teal;
+    border-radius: 5px;
+}
+#plus {
+    padding: 3px;
+    width: 30px;
+    text-align: center;
+    background-color: teal;
+    border: none;
+    border-radius: 50%;
+}
+
+#create_account {
+    padding: 3px 15px;
+    background-color: blue;
+    border: 2px solid black;
+    box-shadow: 3px 3px black;
+}
